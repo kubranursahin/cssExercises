@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+    align-items: center;
+    /*text-align: center;*/
+    background-color:bisque;
+    opacity: 1;
+}
+h1
+{
+    text-align: center;
+    font-size: 20px;
+    background-color:purple;
+    opacity: 2;
+}
+p
+{
+    color:purple;
+    text-align: center;
+    text-shadow: 2px;
+    font-size: large;
+
+}
